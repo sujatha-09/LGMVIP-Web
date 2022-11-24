@@ -1,0 +1,59 @@
+body {
+    background-color: pink;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  button {
+    background-color: blue;
+    border: none;
+    border-radius: 24px;
+    color: black;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+    margin: 12px;
+    padding: 16px;
+    text-align: center;
+    width: 50%;
+  }
+  #cn {
+    background-color: red;
+  }
+  h2 {
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 12px;
+    padding: 12px;
+  }
+  .header {
+    padding: 24px;
+    text-align: center;
+  }
+  .form {
+    border-radius: 12px;
+    padding: 24px;
+  }
+  .form-group {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+  }
+  .form-group input {
+    border: none;
+    border-radius: 12px;
+    padding: 12px;
+    width: 50%;
+  }
+  .form-group label {
+    font-size: larger;
+    font-weight: bold;
+  }
+  .record .student-card {
+    background-color: skyblue;
+    border-radius: 24px;
+    padding: 16px;
+    text-align: center;
+    margin-top: 12px;
+  }
